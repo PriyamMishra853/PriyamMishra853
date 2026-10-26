@@ -9,7 +9,7 @@
 </td>
 <td width="58%">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5E62&vCenter=true&width=420&lines=Hey+there%2C+I'm+Priyam+%F0%9F%91%8B;%F0%9F%8F%86+IBM+Bob+Hackathon+2026+Winner;%F0%9F%A9%BA+Building+RuralAI+%E2%80%94+AI+for+rural+health;%F0%9F%8E%A4+Pitched+to+the+Governor+of+UP;%E2%9A%A1+CSE+%40+UIET+Kanpur+%7C+CGPA+8.64" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5E62&vCenter=true&width=420&lines=Hey+there%2C+I'm+Priyam+%F0%9F%91%8B;%F0%9F%8F%86+IBM+Bob+Hackathon+2026+Winner;%F0%9F%A9%BA+Building+RuralAI+%E2%80%94+AI+for+rural+health;%F0%9F%8E%A4+Pitched+to+the+Governor+of+UP;%F0%9F%92%BB+Setting+up+my+MacBook+Air+M5;%E2%9A%A1+CSE+%40+UIET+Kanpur+%7C+CGPA+8.64" alt="Typing SVG"/></a>
 
 🎓 **B.Tech CSE** @ UIET, CSJM University Kanpur ('29)<br/>
 🚀 Team lead on **RuralAI**, an AI virtual clinic for rural healthcare<br/>
@@ -17,13 +17,44 @@
 🤖 Core member, **Vortex Robotics Club**<br/>
 📍 Kanpur, India
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/priyam-mishra-331177339/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:xyzmishra220@gmail.com"><img src="https://img.shields.io/badge/Email-FF5E62?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/PriyamMishra853"><img src="https://komarev.com/ghpvc/?username=PriyamMishra853&style=for-the-badge&color=8a5cff&label=VISITORS"/></a>
 
 </td>
 </tr>
 </table>
+
+## 💻 Currently Booting Up
+
+<p align="center"><img src="./assets/terminal.svg" width="100%" alt="neofetch on MacBook Air M5"/></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Now_on-MacBook_Air_M5-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/Status-Shipping_Fast-3fb950?style=for-the-badge&logo=rocket&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open_to-Startups-FF5E62?style=for-the-badge&logo=handshake&logoColor=white"/>
+</p>
+
+## 🧬 CS Core
+
+<p align="center">
+<img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-FFB300?style=for-the-badge&logo=thealgorithms&logoColor=black"/>
+<img src="https://img.shields.io/badge/System_Design-FF5E62?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/DBMS-8A5CFF?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Operating_Systems-FFB300?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Computer_Networks-FF5E62?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/OOP-8A5CFF?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-FFB300?style=for-the-badge&logo=openai&logoColor=black"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-FF5E62?style=for-the-badge&logo=anthropic&logoColor=white"/>
+</p>
+
+```cpp
+class Priyam : public Engineer {
+    vector<string> builds   = {"RuralAI", "Election Mgmt System", "VectorDB"};
+    string         motto    = "AI assists, doctor decides.";
+    bool           hireable = true;   // startups, let's talk 🚀
+};
+```
 
 ## 🏆 Hall of Fame
 
@@ -44,6 +75,9 @@
 
 ## 🚀 Featured Projects
 
+### 🥇 [IBM Bob Hackathon 2026: Winning Build](https://github.com/PriyamMishra853/IBMBOB26-24hHackathonProduct-) &nbsp; `1st Place`
+- Built and shipped in **24 hours**, taking **1st place** at IBM Bob Hackathon 2026
+
 ### 🩺 [RuralAI: AI Virtual Clinic](https://github.com/PriyamMishra853/RURALAI-) &nbsp; `Team Lead`
 > *"AI assists, doctor decides."* A clinic assistant registers patients and a remote doctor reviews AI-generated summaries.
 
@@ -59,6 +93,15 @@
 - Voter registration, candidate management, secure voting, PDF result reports
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-FFB300?style=flat-square)
+
+### 🧪 More Builds
+
+<p align="center">
+<a href="https://github.com/PriyamMishra853/VectorDB-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PriyamMishra853&repo=VectorDB-&theme=tokyonight&hide_border=true&title_color=ff5e62&icon_color=ffb300"/></a>
+<a href="https://github.com/PriyamMishra853/SIH2025-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PriyamMishra853&repo=SIH2025-&theme=tokyonight&hide_border=true&title_color=ff5e62&icon_color=ffb300"/></a>
+<a href="https://github.com/PriyamMishra853/YounifyAI-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PriyamMishra853&repo=YounifyAI-&theme=tokyonight&hide_border=true&title_color=ff5e62&icon_color=ffb300"/></a>
+<a href="https://github.com/PriyamMishra853/SystemDesignResources-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PriyamMishra853&repo=SystemDesignResources-&theme=tokyonight&hide_border=true&title_color=ff5e62&icon_color=ffb300"/></a>
+</p>
 
 ## 🛠️ Tech Arsenal
 
@@ -78,5 +121,9 @@
 <p align="center">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PriyamMishra853&bg_color=0d1117&color=ff5e62&line=ffb300&point=8a5cff&hide_border=true"/>
 </p>
+
+## 🏅 Trophies
+
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=PriyamMishra853&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a5cff,50:ff5e62,100:ffb300&height=120&section=footer" width="100%"/>
