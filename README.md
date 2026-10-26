@@ -119,11 +119,7 @@ class Priyam : public Engineer {
 <img src="https://streak-stats.demolab.com?user=PriyamMishra853&theme=tokyonight&hide_border=true&ring=FF5E62&fire=FFB300&currStreakLabel=FF5E62"/>
 </p>
 <p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PriyamMishra853&bg_color=0d1117&color=ff5e62&line=ffb300&point=8a5cff&hide_border=true"/>
+<img width="100%" src="https://ghchart.rshah.org/ff5e62/PriyamMishra853" alt="contribution chart"/>
 </p>
-
-## 🏅 Trophies
-
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=PriyamMishra853&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a5cff,50:ff5e62,100:ffb300&height=120&section=footer" width="100%"/>
