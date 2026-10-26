@@ -11,10 +11,10 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5E62&vCenter=true&width=420&lines=Hey+there%2C+I'm+Priyam+%F0%9F%91%8B;%F0%9F%8F%86+IBM+Bob+Hackathon+2026+Winner;%F0%9F%A9%BA+Building+RuralAI+%E2%80%94+AI+for+rural+health;%F0%9F%8E%A4+Pitched+to+the+Governor+of+UP;%E2%9A%A1+CSE+%40+UIET+Kanpur+%7C+CGPA+8.64" alt="Typing SVG"/></a>
 
-🎓 **B.Tech CSE** @ UIET, CSJM University Kanpur ('29)
-🚀 Team lead on **RuralAI**, an AI virtual clinic for rural healthcare
-🧠 Into **RAG, LLMs, system design** and scalable backends
-🤖 Core member, **Vortex Robotics Club**
+🎓 **B.Tech CSE** @ UIET, CSJM University Kanpur ('29)<br/>
+🚀 Team lead on **RuralAI**, an AI virtual clinic for rural healthcare<br/>
+🧠 Into **RAG, LLMs, system design** and scalable backends<br/>
+🤖 Core member, **Vortex Robotics Club**<br/>
 📍 Kanpur, India
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
