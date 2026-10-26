@@ -1,0 +1,24 @@
+name: Contribution snake
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+  push: {branches: [main]}
+permissions: {contents: write}
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?color_snake=#ff5e62&color_dots=#ebedf0,#ffe0a3,#ffc04d,#ff8f00,#ff5e62
+            dist/snake-dark.svg?palette=github-dark&color_snake=#ff5e62&color_dots=#161b22,#5c3a00,#a35f00,#ff8f00,#ffb300
+      - name: Publish to output branch
+        run: |
+          cd dist
+          git init -q -b output
+          git config user.name github-actions
+          git config user.email github-actions@users.noreply.github.com
+          git add . && git commit -qm "Update snake"
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" output

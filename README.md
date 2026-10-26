@@ -122,4 +122,11 @@ class Priyam : public Engineer {
 <img width="100%" src="https://ghchart.rshah.org/ff5e62/PriyamMishra853" alt="contribution chart"/>
 </p>
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PriyamMishra853/PriyamMishra853/output/snake-dark.svg"/>
+  <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/PriyamMishra853/PriyamMishra853/output/snake.svg"/>
+</picture>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a5cff,50:ff5e62,100:ffb300&height=120&section=footer" width="100%"/>
