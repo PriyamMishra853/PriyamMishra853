@@ -73,6 +73,10 @@ class Priyam : public Engineer {
 </tr>
 </table>
 
+## 🗺️ The Journey So Far
+
+<p align="center"><img src="./assets/timeline.svg" width="100%" alt="journey timeline"/></p>
+
 ## 🚀 Featured Projects
 
 ### 🥇 [IBM Bob Hackathon 2026: Winning Build](https://github.com/PriyamMishra853/IBMBOB26-24hHackathonProduct-) &nbsp; `1st Place`
@@ -85,6 +89,27 @@ class Priyam : public Engineer {
 - **244,938 vectors** · **377 symptoms** · **582 diseases** · **97.4% Top-5 accuracy**
 - OCR for handwritten prescriptions, TTS, JWT, PostgreSQL RLS, live WebSockets
 - **50,000+ tests**, deployed on Vercel + Railway
+
+<details>
+<summary><b>🏗️ Peek at the architecture</b></summary>
+
+```mermaid
+flowchart LR
+    A[👩‍⚕️ Clinic Assistant] -->|registers patient| B[React + Tailwind UI]
+    P[📝 Handwritten prescription] -->|OCR| B
+    B -->|JWT| C[Express / Node API]
+    C --> D{AI Diagnostic Pipeline}
+    D -->|RAG| E[(Qdrant<br/>244,938 vectors)]
+    D -->|Bernoulli NB| F[377 symptoms → 582 diseases]
+    D -->|summary| G[Groq LLM]
+    C --> H[(PostgreSQL + RLS)]
+    G -->|AI summary + TTS| I[🩺 Remote Doctor]
+    I <-->|WebSocket| A
+    style D fill:#ff5e62,color:#fff,stroke:#ff5e62
+    style I fill:#8a5cff,color:#fff,stroke:#8a5cff
+```
+
+</details>
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
@@ -117,6 +142,9 @@ class Priyam : public Engineer {
 </p>
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=PriyamMishra853&theme=tokyonight&hide_border=true&ring=FF5E62&fire=FFB300&currStreakLabel=FF5E62"/>
+</p>
+<p align="center">
+<a href="https://leetcode.com/u/PriyamMishra220/"><img src="https://leetcard.jacoblin.cool/PriyamMishra220?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=12" alt="LeetCode stats"/></a>
 </p>
 <p align="center">
 <img width="100%" src="https://ghchart.rshah.org/ff5e62/PriyamMishra853" alt="contribution chart"/>
