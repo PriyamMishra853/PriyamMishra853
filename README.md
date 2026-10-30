@@ -172,10 +172,9 @@ flowchart LR
 ### 🧪 More Builds
 
 <p align="center">
-<a href="https://github.com/PriyamMishra853/VectorDB-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PriyamMishra853&repo=VectorDB-&theme=tokyonight&hide_border=true&title_color=ff5e62&icon_color=ffb300"/></a>
-<a href="https://github.com/PriyamMishra853/SIH2025-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PriyamMishra853&repo=SIH2025-&theme=tokyonight&hide_border=true&title_color=ff5e62&icon_color=ffb300"/></a>
-<a href="https://github.com/PriyamMishra853/YounifyAI-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PriyamMishra853&repo=YounifyAI-&theme=tokyonight&hide_border=true&title_color=ff5e62&icon_color=ffb300"/></a>
-<a href="https://github.com/PriyamMishra853/SystemDesignResources-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PriyamMishra853&repo=SystemDesignResources-&theme=tokyonight&hide_border=true&title_color=ff5e62&icon_color=ffb300"/></a>
+<a href="https://github.com/PriyamMishra853/VectorDB-"><img src="./assets/pin-vectordb.svg" width="49%"/></a>
+<a href="https://github.com/PriyamMishra853/SIH2025-"><img src="./assets/pin-sih2025.svg" width="49%"/></a>
+<a href="https://github.com/PriyamMishra853/YounifyAI-"><img src="./assets/pin-younifyai.svg" width="49%"/></a>
 </p>
 
 ## 🛠️ Tech Arsenal
@@ -202,8 +201,7 @@ flowchart LR
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PriyamMishra853&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff5e62&icon_color=ffb300"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyamMishra853&layout=compact&theme=tokyonight&hide_border=true&title_color=ff5e62"/>
+<img src="./assets/stats.svg" width="100%" alt="GitHub stats"/>
 </p>
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=PriyamMishra853&theme=tokyonight&hide_border=true&ring=FF5E62&fire=FFB300&currStreakLabel=FF5E62"/>
