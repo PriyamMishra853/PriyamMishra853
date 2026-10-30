@@ -25,6 +25,56 @@
 </tr>
 </table>
 
+## 👀 Who's Visiting?
+
+<table>
+<tr>
+<td align="center" width="33%"><h2>🚀</h2><b>Founder / Startup</b></td>
+<td align="center" width="33%"><h2>🧑‍💼</h2><b>Recruiter</b></td>
+<td align="center" width="33%"><h2>👨‍💻</h2><b>Fellow Developer</b></td>
+</tr>
+<tr>
+<td valign="top">
+
+<details><summary><b>Why bet on me →</b></summary>
+
+- Lead a 4-person team that shipped an **AI clinic** end-to-end
+- Go from 0 to winning demo in **24h** (🥇 IBM Bob)
+- Comfortable across **frontend, backend, RAG and infra**
+- Already pitched to a **Governor**, so I can pitch to your users too
+
+<a href="mailto:xyzmishra220@gmail.com?subject=Startup%20opportunity%20for%20Priyam"><img src="https://img.shields.io/badge/Let's_build_together-FF5E62?style=for-the-badge&logo=rocket&logoColor=white"/></a>
+</details>
+
+</td>
+<td valign="top">
+
+<details><summary><b>The 10-second scan →</b></summary>
+
+- 🎓 B.Tech CSE '29 · **CGPA 8.64**
+- 🥇 1st IBM Bob · 🥉 3rd IIT BHU Technex
+- 🧩 **200+** DSA problems solved
+- 🛠️ React · Node · Python · C++ · SQL · Docker
+
+<a href="mailto:xyzmishra220@gmail.com?subject=Internship%20opportunity%20for%20Priyam"><img src="https://img.shields.io/badge/Request_Resume-8A5CFF?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
+</details>
+
+</td>
+<td valign="top">
+
+<details><summary><b>Let's collaborate →</b></summary>
+
+- Into **RAG, vector DBs, LLM apps** and system design
+- Happy to pair on hackathons and open source
+- Swap notes on DSA, or on M5 dev setups 🍏
+
+<a href="https://github.com/PriyamMishra853?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_repos-FFB300?style=for-the-badge&logo=github&logoColor=black"/></a>
+</details>
+
+</td>
+</tr>
+</table>
+
 ## 💻 Currently Booting Up
 
 <p align="center"><img src="./assets/terminal.svg" width="100%" alt="neofetch on MacBook Air M5"/></p>
@@ -133,6 +183,11 @@ flowchart LR
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,react,nodejs,express,tailwind,mongodb,mysql,postgres,docker,linux,bash,git,github,vscode&perline=10" />
 </p>
+
+## 🔴 Live Activity
+
+<!-- LIVE:START -->
+<!-- LIVE:END -->
 
 ## 📊 GitHub Stats
 

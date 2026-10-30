@@ -1,0 +1,20 @@
+name: Live activity
+on:
+  schedule: [{cron: "0 */6 * * *"}]
+  workflow_dispatch:
+  push: {branches: [main], paths: [".github/scripts/**", ".github/workflows/live-activity.yml"]}
+permissions: {contents: write}
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 .github/scripts/update_activity.py
+        env:
+          GH_USER: ${{ github.repository_owner }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit if changed
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@users.noreply.github.com
+          git diff --quiet || (git commit -qam "Update live activity" && git push)
