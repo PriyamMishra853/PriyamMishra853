@@ -3,7 +3,9 @@ import json, os, re, urllib.request
 from datetime import datetime, timezone
 
 USER = os.environ["GH_USER"]
-HEADERS = {"Authorization": f"Bearer {os.environ['GH_TOKEN']}", "Accept": "application/vnd.github+json"}
+HEADERS = {"Accept": "application/vnd.github+json"}
+if os.environ.get("GH_TOKEN"):
+    HEADERS["Authorization"] = f"Bearer {os.environ['GH_TOKEN']}"
 
 
 def get(url):
@@ -24,16 +26,16 @@ for e in get(f"https://api.github.com/users/{USER}/events/public?per_page=100"):
     repo = e["repo"]["name"]
     if repo == f"{USER}/{USER}":
         continue
-    name, t, p = repo.split("/")[1], e["type"], e["payload"]
+    t, p = e["type"], e["payload"]
+    name = f"[**{repo.split('/')[1]}**](https://github.com/{repo})"
     if t == "PushEvent":
-        msg = (p.get("commits") or [{}])[-1].get("message", "").splitlines()[0][:60] if p.get("commits") else "pushed code"
-        text = f"🔨 Pushed to **{name}**: `{msg}`"
+        text = f"🔨 Shipped code to {name}"
     elif t == "CreateEvent" and p.get("ref_type") == "repository":
-        text = f"✨ Created **{name}**"
+        text = f"✨ Created {name}"
     elif t == "PullRequestEvent":
-        text = f"🔀 {p['action'].capitalize()} PR in **{name}**"
+        text = f"🔀 {p['action'].capitalize()} a PR in {name}"
     elif t == "WatchEvent":
-        text = f"⭐ Starred **{name}**"
+        text = f"⭐ Starred {name}"
     else:
         continue
     key = (t, name)
@@ -51,5 +53,5 @@ now = datetime.now(timezone.utc).strftime("%d %b %Y, %H:%M UTC")
 block = "\n".join(["| What I've been up to | When |", "|:--|--:|", *lines, "", f"<sub>🤖 This section updates itself every 6 hours · last sync {now}</sub>"])
 path = "README.md"
 s = open(path, encoding="utf-8").read()
-s = re.sub(r"(<!-- LIVE:START -->\n).*?(\n<!-- LIVE:END -->)", lambda m: m.group(1) + block + m.group(2), s, flags=re.S)
+s = re.sub(r"<!-- LIVE:START -->.*?<!-- LIVE:END -->", lambda m: f"<!-- LIVE:START -->\n{block}\n<!-- LIVE:END -->", s, flags=re.S)
 open(path, "w", encoding="utf-8").write(s)
