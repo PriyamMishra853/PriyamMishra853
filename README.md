@@ -188,14 +188,14 @@ flowchart LR
 <!-- LIVE:START -->
 | What I've been up to | When |
 |:--|--:|
-| 🔨 Shipped code to [**Sachet-**](https://github.com/PriyamMishra853/Sachet-) | <sub>2d ago</sub> |
-| 🔨 Shipped code to [**RURALAI-**](https://github.com/PriyamMishra853/RURALAI-) | <sub>18d ago</sub> |
-| 🔨 Shipped code to [**ElectionManagementSystem-**](https://github.com/PriyamMishra853/ElectionManagementSystem-) | <sub>20d ago</sub> |
-| 🔨 Shipped code to [**YounifyAI-**](https://github.com/PriyamMishra853/YounifyAI-) | <sub>26d ago</sub> |
+| 🔨 Shipped code to [**shinchan-hackathon-**](https://github.com/PriyamMishra853/shinchan-hackathon-) | <sub>1d ago</sub> |
+| 🔨 Shipped code to [**Sachet-**](https://github.com/PriyamMishra853/Sachet-) | <sub>5h ago</sub> |
+| 🔨 Shipped code to [**RURALAI-**](https://github.com/PriyamMishra853/RURALAI-) | <sub>19d ago</sub> |
+| 🔨 Shipped code to [**ElectionManagementSystem-**](https://github.com/PriyamMishra853/ElectionManagementSystem-) | <sub>21d ago</sub> |
+| 🔨 Shipped code to [**YounifyAI-**](https://github.com/PriyamMishra853/YounifyAI-) | <sub>27d ago</sub> |
 | 🔨 Shipped code to [**Pari**](https://github.com/PriyamMishra853/Pari) | <sub>28d ago</sub> |
-| 🔀 Opened a PR in [**Pari**](https://github.com/PriyamMishra853/Pari) | <sub>27d ago</sub> |
 
-<sub>🤖 This section updates itself every 6 hours · last sync 02 Nov 2026, 15:32 UTC</sub>
+<sub>🤖 This section updates itself every 6 hours · last sync 03 Nov 2026, 00:51 UTC</sub>
 <!-- LIVE:END -->
 
 ## 📊 GitHub Stats
