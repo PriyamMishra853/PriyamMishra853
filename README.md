@@ -188,14 +188,14 @@ flowchart LR
 <!-- LIVE:START -->
 | What I've been up to | When |
 |:--|--:|
+| 🔨 Shipped code to [**Sachet-**](https://github.com/PriyamMishra853/Sachet-) | <sub>2d ago</sub> |
 | 🔨 Shipped code to [**shinchan-hackathon-**](https://github.com/PriyamMishra853/shinchan-hackathon-) | <sub>3d ago</sub> |
-| 🔨 Shipped code to [**Sachet-**](https://github.com/PriyamMishra853/Sachet-) | <sub>1d ago</sub> |
-| 🔨 Shipped code to [**RURALAI-**](https://github.com/PriyamMishra853/RURALAI-) | <sub>20d ago</sub> |
-| 🔨 Shipped code to [**ElectionManagementSystem-**](https://github.com/PriyamMishra853/ElectionManagementSystem-) | <sub>22d ago</sub> |
-| 🔨 Shipped code to [**YounifyAI-**](https://github.com/PriyamMishra853/YounifyAI-) | <sub>28d ago</sub> |
+| 🔨 Shipped code to [**RURALAI-**](https://github.com/PriyamMishra853/RURALAI-) | <sub>21d ago</sub> |
+| 🔨 Shipped code to [**ElectionManagementSystem-**](https://github.com/PriyamMishra853/ElectionManagementSystem-) | <sub>23d ago</sub> |
+| 🔨 Shipped code to [**YounifyAI-**](https://github.com/PriyamMishra853/YounifyAI-) | <sub>29d ago</sub> |
 | 🔨 Shipped code to [**Pari**](https://github.com/PriyamMishra853/Pari) | <sub>30d ago</sub> |
 
-<sub>🤖 This section updates itself every 6 hours · last sync 04 Nov 2026, 14:21 UTC</sub>
+<sub>🤖 This section updates itself every 6 hours · last sync 04 Nov 2026, 23:32 UTC</sub>
 <!-- LIVE:END -->
 
 ## 📊 GitHub Stats
