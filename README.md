@@ -190,10 +190,8 @@ flowchart LR
 |:--|--:|
 | 🔨 Shipped code to [**RURALAI-**](https://github.com/PriyamMishra853/RURALAI-) | <sub>1d ago</sub> |
 | 🔨 Shipped code to [**ElectionManagementSystem-**](https://github.com/PriyamMishra853/ElectionManagementSystem-) | <sub>24d ago</sub> |
-| 🔨 Shipped code to [**YounifyAI-**](https://github.com/PriyamMishra853/YounifyAI-) | <sub>30d ago</sub> |
-| 🔨 Shipped code to [**Pari**](https://github.com/PriyamMishra853/Pari) | <sub>31d ago</sub> |
 
-<sub>🤖 This section updates itself every 6 hours · last sync 05 Nov 2026, 19:49 UTC</sub>
+<sub>🤖 This section updates itself every 6 hours · last sync 06 Nov 2026, 06:17 UTC</sub>
 <!-- LIVE:END -->
 
 ## 📊 GitHub Stats
