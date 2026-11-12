@@ -190,9 +190,8 @@ flowchart LR
 |:--|--:|
 | 🔨 Shipped code to [**IBMBOB26-24hHackathonProduct-**](https://github.com/PriyamMishra853/IBMBOB26-24hHackathonProduct-) | <sub>2d ago</sub> |
 | 🔨 Shipped code to [**RURALAI-**](https://github.com/PriyamMishra853/RURALAI-) | <sub>7d ago</sub> |
-| 🔨 Shipped code to [**ElectionManagementSystem-**](https://github.com/PriyamMishra853/ElectionManagementSystem-) | <sub>30d ago</sub> |
 
-<sub>🤖 This section updates itself every 6 hours · last sync 12 Nov 2026, 00:28 UTC</sub>
+<sub>🤖 This section updates itself every 6 hours · last sync 12 Nov 2026, 15:00 UTC</sub>
 <!-- LIVE:END -->
 
 ## 📊 GitHub Stats
