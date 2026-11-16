@@ -189,10 +189,10 @@ flowchart LR
 | What I've been up to | When |
 |:--|--:|
 | 🔨 Shipped code to [**RURALAI-**](https://github.com/PriyamMishra853/RURALAI-) | <sub>3d ago</sub> |
-| 🔨 Shipped code to [**YounifyAI-**](https://github.com/PriyamMishra853/YounifyAI-) | <sub>3d ago</sub> |
-| 🔨 Shipped code to [**IBMBOB26-24hHackathonProduct-**](https://github.com/PriyamMishra853/IBMBOB26-24hHackathonProduct-) | <sub>6d ago</sub> |
+| 🔨 Shipped code to [**YounifyAI-**](https://github.com/PriyamMishra853/YounifyAI-) | <sub>4d ago</sub> |
+| 🔨 Shipped code to [**IBMBOB26-24hHackathonProduct-**](https://github.com/PriyamMishra853/IBMBOB26-24hHackathonProduct-) | <sub>7d ago</sub> |
 
-<sub>🤖 This section updates itself every 6 hours · last sync 16 Nov 2026, 06:05 UTC</sub>
+<sub>🤖 This section updates itself every 6 hours · last sync 16 Nov 2026, 21:54 UTC</sub>
 <!-- LIVE:END -->
 
 ## 📊 GitHub Stats
