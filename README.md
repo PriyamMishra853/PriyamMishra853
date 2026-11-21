@@ -188,12 +188,13 @@ flowchart LR
 <!-- LIVE:START -->
 | What I've been up to | When |
 |:--|--:|
-| 🔨 Shipped code to [**deds-exam**](https://github.com/PriyamMishra853/deds-exam) | <sub>2d ago</sub> |
-| 🔨 Shipped code to [**RURALAI-**](https://github.com/PriyamMishra853/RURALAI-) | <sub>5d ago</sub> |
-| 🔨 Shipped code to [**YounifyAI-**](https://github.com/PriyamMishra853/YounifyAI-) | <sub>8d ago</sub> |
-| 🔨 Shipped code to [**IBMBOB26-24hHackathonProduct-**](https://github.com/PriyamMishra853/IBMBOB26-24hHackathonProduct-) | <sub>11d ago</sub> |
+| 🔨 Shipped code to [**xlr8**](https://github.com/Unfilteredengineers123/xlr8) | <sub>6h ago</sub> |
+| 🔨 Shipped code to [**RURALAI-**](https://github.com/PriyamMishra853/RURALAI-) | <sub>7h ago</sub> |
+| 🔨 Shipped code to [**deds-exam**](https://github.com/PriyamMishra853/deds-exam) | <sub>3d ago</sub> |
+| 🔨 Shipped code to [**YounifyAI-**](https://github.com/PriyamMishra853/YounifyAI-) | <sub>9d ago</sub> |
+| 🔨 Shipped code to [**IBMBOB26-24hHackathonProduct-**](https://github.com/PriyamMishra853/IBMBOB26-24hHackathonProduct-) | <sub>12d ago</sub> |
 
-<sub>🤖 This section updates itself every 6 hours · last sync 21 Nov 2026, 06:51 UTC</sub>
+<sub>🤖 This section updates itself every 6 hours · last sync 21 Nov 2026, 19:02 UTC</sub>
 <!-- LIVE:END -->
 
 ## 📊 GitHub Stats
